@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pauletalive, aka Paulo Ricardo Silva
 - 👀 Plan to graduate in Associates in LAN Security at ACC in Summer 2023.
-- 🌱 I’m currently learning Python coding.
+- 🌱 I’m currently learning Python coding in Programming Fundamentals I.
 - 💞️ Changing the carrer path from physical training to CyberSec / Dev field.
 - 📫 
 
